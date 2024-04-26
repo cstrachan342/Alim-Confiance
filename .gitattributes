@@ -1,0 +1,1 @@
+*INSEE_deces_2010_2019.csv filter=lfs diff=lfs merge=lfs -text
